@@ -3,7 +3,10 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+End
+shadertoolsconfig
 
+.vsconfig
 .vscode
 .vs
 *.vs.db
